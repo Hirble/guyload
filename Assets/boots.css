@@ -1,0 +1,15 @@
+h1{
+    color: blueviolet;
+    background-color: khaki;
+    text-align: center;
+}
+
+.whatever{
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#head3{
+    color: lavender;
+    background-color: maroon;
+}

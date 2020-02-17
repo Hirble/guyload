@@ -3,7 +3,12 @@ h1{
     background-color: khaki;
     text-align: center;
 }
-
+body{
+    background-image: url(./matheus-ferrero-0xCMoic4II8-unsplash.jpg);
+}
+p{
+    color: mintcream;
+}
 .whatever{
     font-weight: bolder;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;

@@ -1,0 +1,15 @@
+#linklist{
+    text-emphasis: 2;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(88, 88, 88);
+}
+
+body{
+    background-image: url(839766.png);
+}
+
+tr{
+    background-color: darkgrey;
+    color: black;
+    font-weight: bolder;
+}
